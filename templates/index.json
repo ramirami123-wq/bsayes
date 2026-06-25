@@ -97,7 +97,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "Youngevity",
+            "text": "Smart everyday solutions",
             "text_size": 20,
             "link": ""
           }
@@ -114,7 +114,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#0359CA",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -126,7 +126,7 @@
         "heading_NEyD4Q": {
           "type": "heading",
           "settings": {
-            "heading": "AT Youngevity",
+            "heading": "Welcome to Kimlit",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -134,7 +134,7 @@
         "text_z3jQfd": {
           "type": "text",
           "settings": {
-            "text": "<p>we believe that confidence begins with a healthy smile. Our mission is to create innovative, easy-to-use oral care solutions that help you maintain professional-level hygiene from the comfort of your home.</p><p>We combine modern technology with thoughtful design to deliver products that are effective, safe, and convenient for everyday use. From powerful sonic cleaning to user-friendly features, every Youngevity product is crafted to support your journey toward better oral health.</p>",
+            "text": "<p>At Kimlit, we believe that the right products can make daily routines easier, more efficient, and more enjoyable. That's why we carefully curate a wide range of high-quality gadgets, home essentials, lifestyle products, and innovative solutions that combine functionality with modern design.</p><p>Whether you're looking for portable technology, convenient everyday tools, or unique products that enhance your lifestyle, Kimlit is committed to bringing you items that deliver value, convenience, and reliability.</p><p>Our mission is simple: <strong>to provide innovative products that improve the way you live, work, and travel.</strong></p><p>Thank you for choosing Kimlit. We're excited to be part of your everyday journey.</p><p><strong>Kimlit – Smart Living Made Simple.</strong></p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_phrases": "",
@@ -173,7 +173,7 @@
             "icon": "none",
             "icon_size": "medium",
             "custom_icon": "",
-            "text": "WELCOME TO YOUNGEVITY",
+            "text": "Modern lifestyle essentials",
             "text_size": 20,
             "link": ""
           }
@@ -190,7 +190,7 @@
         "use_custom_colors": true,
         "colors_icon": "#ffffff",
         "colors_text": "#ffffff",
-        "colors_background": "#cb572a",
+        "colors_background": "#0359CA",
         "gradient_background": "",
         "padding_top": 20,
         "padding_bottom": 20
@@ -202,22 +202,22 @@
         "question_yNkDQY": {
           "type": "question",
           "settings": {
-            "title": "Is the Youngevity Sonic Dental Scaler safe to use at home?",
-            "text": "<p>Yes! The device is designed for safe at-home use. It features gentle yet powerful sonic vibrations and multiple modes to suit different sensitivity levels.</p>"
+            "title": "How long does shipping take?",
+            "text": "<p>We process orders quickly, and most deliveries arrive within <strong>5–7 business days</strong>. Once your order is shipped, you'll receive tracking information to monitor its journey.</p>"
           }
         },
         "question_YmRBPG": {
           "type": "question",
           "settings": {
-            "title": "Does it hurt to use?",
-            "text": "<p>When used correctly, it should not hurt. If you have sensitive gums, start with the lowest setting and gently guide the tip along your teeth.<br/></p>"
+            "title": "Are your products high quality?",
+            "text": "<p>Yes! At <strong>Kimlit</strong>, we carefully select and test our products to ensure they meet our standards for <strong>quality, functionality, and durability</strong>. Customer satisfaction is our top priority.</p>"
           }
         },
         "question_9WMfD8": {
           "type": "question",
           "settings": {
-            "title": "Is it waterproof?",
-            "text": "<p>Yes, the Youngevity Sonic Dental Scaler is waterproof, making it safe for use in the bathroom and easy to clean after each use.<br/></p>"
+            "title": "How can I contact customer support?",
+            "text": "<p>You can easily reach our support team through <strong>WhatsApp</strong>. We're here to answer your questions and assist you with your orders.</p>"
           }
         }
       },
