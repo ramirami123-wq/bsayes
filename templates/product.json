@@ -124,8 +124,173 @@
         "padding_bottom": 72
       }
     },
+    "scrolling_promotion_ff8iem": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_xRQzAj": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Work Anywhere, Anytime.",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_xRQzAj"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#FFFFFF",
+        "colors_background": "#0359CA",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_8m7czd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XCiVbT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Productive Anywhere",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_N7jh9P": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Take your workspace with you wherever you go. The compact foldable design makes typing comfortable anytime, anywhere.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XCiVbT",
+        "text_N7jh9P"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/f1.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling_promotion_fB3TT4": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_EJnY6h": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "Fold. Connect. Get Things Done.",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_EJnY6h"
+      ],
+      "name": "t:sections.scrolling-promotion.presets.name",
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#FFFFFF",
+        "colors_background": "#0359CA",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TB6GVA": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hAJN47": {
+          "type": "heading",
+          "settings": {
+            "heading": "Seamless Typing on the Go",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_jRCknc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/>Connect effortlessly to your devices and enjoy smooth, efficient typing whether you're working, studying, or traveling.<br/><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hAJN47",
+        "text_jRCknc"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/f5.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "product_list_limit": 4,
         "show_divider": false,
@@ -145,6 +310,28 @@
         "enable_quick_view": true,
         "enable_color_swatches": true,
         "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_mBiK4e": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .kimlit-benefits {\n    max-width: 850px;\n    margin: 30px auto;\n    font-family: Arial, sans-serif;\n  }\n\n  .kimlit-benefits h2 {\n    text-align: center;\n    color: #0359ca;\n    font-size: 28px;\n    margin-bottom: 20px;\n  }\n\n  .kimlit-table {\n    width: 100%;\n    border-collapse: collapse;\n    overflow: hidden;\n    border-radius: 14px;\n    box-shadow: 0 4px 14px rgba(0,0,0,0.08);\n  }\n\n  .kimlit-table th {\n    background-color: #0359ca;\n    color: white;\n    padding: 14px;\n    font-size: 16px;\n    text-align: center;\n  }\n\n  .kimlit-table td {\n    padding: 14px;\n    text-align: center;\n    font-size: 15px;\n    border-bottom: 1px solid #eeeeee;\n  }\n\n  .kimlit-table td:first-child {\n    text-align: left;\n    font-weight: 600;\n    color: #222;\n  }\n\n  .yes {\n    color: #0359ca;\n    font-weight: 700;\n  }\n\n  .no {\n    color: #999;\n    font-weight: 700;\n  }\n\n  @media (max-width: 600px) {\n    .kimlit-benefits h2 {\n      font-size: 24px;\n    }\n\n    .kimlit-table th,\n    .kimlit-table td {\n      padding: 11px;\n      font-size: 13px;\n    }\n  }\n</style>\n\n<div class=\"kimlit-benefits\">\n  <h2>Why Choose Kimlit?</h2>\n\n  <table class=\"kimlit-table\">\n    <thead>\n      <tr>\n        <th>Benefits</th>\n        <th>Kimlit</th>\n        <th>Others</th>\n      </tr>\n    </thead>\n\n    <tbody>\n      <tr>\n        <td>Foldable & Portable Design</td>\n        <td class=\"yes\">Yes</td>\n        <td class=\"no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Built-In Touchpad</td>\n        <td class=\"yes\">Yes</td>\n        <td class=\"no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Wireless Connection</td>\n        <td class=\"yes\">Yes</td>\n        <td class=\"no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Rechargeable Battery</td>\n        <td class=\"yes\">Yes</td>\n        <td class=\"no\">No</td>\n      </tr>\n\n      <tr>\n        <td>Perfect for Travel, Work & Study</td>\n        <td class=\"yes\">Yes</td>\n        <td class=\"no\">No</td>\n      </tr>\n    </tbody>\n  </table>\n</div>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_6QeQeK": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<style>\n  .kimlit-faq {\n    max-width: 850px;\n    margin: 35px auto;\n    padding: 0 15px;\n    font-family: Arial, sans-serif;\n  }\n\n  .kimlit-faq h2 {\n    text-align: center;\n    color: #0359ca;\n    font-size: 28px;\n    margin-bottom: 25px;\n  }\n\n  .kimlit-faq details {\n    background: #ffffff;\n    border: 1px solid #e5e5e5;\n    border-radius: 12px;\n    margin-bottom: 12px;\n    padding: 16px 18px;\n    box-shadow: 0 3px 10px rgba(0,0,0,0.05);\n  }\n\n  .kimlit-faq summary {\n    cursor: pointer;\n    font-size: 16px;\n    font-weight: 700;\n    color: #222;\n    list-style: none;\n  }\n\n  .kimlit-faq summary::-webkit-details-marker {\n    display: none;\n  }\n\n  .kimlit-faq summary::after {\n    content: \"+\";\n    float: right;\n    color: #0359ca;\n    font-size: 22px;\n    font-weight: 700;\n  }\n\n  .kimlit-faq details[open] summary::after {\n    content: \"-\";\n  }\n\n  .kimlit-faq p {\n    margin-top: 12px;\n    color: #555;\n    font-size: 15px;\n    line-height: 1.6;\n  }\n</style>\n\n<div class=\"kimlit-faq\">\n  <h2>Frequently Asked Questions</h2>\n\n  <details>\n    <summary>Is the keyboard wireless?</summary>\n    <p>Yes, this portable foldable keyboard connects wirelessly, making it easy to use with your phone, tablet, or laptop without extra cables.</p>\n  </details>\n\n  <details>\n    <summary>Does it have a touchpad?</summary>\n    <p>Yes, it includes a built-in touchpad so you can control your device easily without needing a separate mouse.</p>\n  </details>\n\n  <details>\n    <summary>Is it easy to carry?</summary>\n    <p>Yes, the foldable design makes it compact and lightweight, perfect for travel, work, school, or daily use.</p>\n  </details>\n\n  <details>\n    <summary>Is it rechargeable?</summary>\n    <p>Yes, the keyboard is rechargeable, so you can use it conveniently without replacing batteries.</p>\n  </details>\n\n  <details>\n    <summary>What devices can I use it with?</summary>\n    <p>It is suitable for many devices such as smartphones, tablets, laptops, and other compatible devices that support wireless keyboard connection.</p>\n  </details>\n\n  <details>\n    <summary>How long does delivery take?</summary>\n    <p>Delivery usually takes around 5–7 business days. You can contact us anytime through WhatsApp for order updates or support.</p>\n  </details>\n</div>",
+        "full_width": false,
+        "show_divider": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -232,7 +419,13 @@
   "order": [
     "empty-space",
     "main",
+    "scrolling_promotion_ff8iem",
+    "image_with_text_8m7czd",
+    "scrolling_promotion_fB3TT4",
+    "image_with_text_TB6GVA",
     "product-recommendations",
+    "custom_liquid_mBiK4e",
+    "custom_liquid_6QeQeK",
     "1771945068374140eb",
     "guarantees_Yj7NaV",
     "1771850465e38b72c3"
