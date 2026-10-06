@@ -37,13 +37,13 @@
         "enable_country_selector": true,
         "enable_language_selector": true,
         "payment_enable": true,
-        "show_policy": false,
+        "show_policy": true,
         "copyright_text": "All rights reserved",
-        "colors_text": "#FFFFFF",
-        "colors_heading": "#FFFFFF",
-        "colors_link": "#FFFFFF",
-        "colors_border": "#FFFFFF",
-        "colors_background": "#0359CA",
+        "colors_text": "#ffffff",
+        "colors_heading": "#ffffff",
+        "colors_link": "#ffffff",
+        "colors_border": "#ffffff",
+        "colors_background": "#0359ca",
         "gradient_background": ""
       }
     }
